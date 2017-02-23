@@ -1,0 +1,3 @@
+ircmaxell/password-compat: https://github.com/ircmaxell/password_compat
+slim/pdo": https://github.com/FaaPz/Slim-PDO/tree/master/docs
+vlucas/bulletphp: http://bulletphp.com/docs/

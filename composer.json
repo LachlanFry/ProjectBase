@@ -1,0 +1,13 @@
+{
+    "name": "ProjectBase",
+    "authors": [
+        {
+            "name": "Lachie Fry",
+            "email": "lachiefry5@bigpond.com"
+        }
+    ],
+    "require": {
+      "slim/pdo": "~1.9",
+      "vlucas/bulletphp": "*"
+    }
+}
